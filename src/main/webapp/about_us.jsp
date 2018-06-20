@@ -29,13 +29,13 @@
         <ul class="nav navbar-nav navbar-right">
             <li><a href="#"><span class="glyphicon glyphicon-user"></span> ${sessionScope.authUser.getUserId()} </a>
             </li>
-            <li><a href="${pageContext.request.contextPath}/UserLogout" title="Logout"><span
+            <li><a href="${pageContext.request.contextPath}/UserLogout" title="Logout" /><span
                     class="glyphicon glyphicon-log-out"></span> logout</li>
             </a>
         </ul>
     </div>
 </nav>
-<!-- *********** Navbar ends *********** -->
+<!-- *********** Navbar ends :P *********** -->
 
 
 </body>
