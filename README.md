@@ -1,4 +1,4 @@
-# Notes
+# Book Store
 Live deployment Link: < https://dbs-vt.herokuapp.com/ >
 
 ## Author
