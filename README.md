@@ -1,5 +1,5 @@
 # Notes
-Live deployment Link: < https://dsb-vt.herokuapp.com/ >
+Live deployment Link: < https://dbs-vt.herokuapp.com/ >
 
 ## Author
 Vaijyant Tomar
